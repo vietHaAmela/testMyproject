@@ -1,1 +1,3 @@
 noi dung c
+
+sua file c boi master
